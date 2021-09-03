@@ -5,7 +5,7 @@ https://github.com/adienakhmad/ADS1256
 
 ADS1256 works with Arduino, however there is an offset of the reading, at different gains. 
 
-This calibration was done with a bench top DDM (Keysight 34460). Results are very linear between ADS1256 and DDM, but linear slops at different gains are various.
+This calibration was done with a bench top DMM (Keysight 34460). Results are very linear between ADS1256 and DMM, but linear slops are various at different gains.
 
 Wiring
 ADS Board   -     Arduino UNO Board
